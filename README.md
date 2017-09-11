@@ -21,7 +21,7 @@ You wouldn't be having much trouble running this notebook now.
 
 3. Nbviewer link
 
-http://nbviewer.jupyter.org/github/TianhongBu/DataScience/blob/master/SentimentAnalysisOf2016ElectionUsingTwitter.html
+https://nbviewer.jupyter.org/github/TinaHongBu/SentimentAnalysis/blob/master/SentimentAnalysisOf2016ElectionUsingTwitter.html
 
 4. Potential Sources
 
