@@ -23,11 +23,7 @@ You wouldn't be having much trouble running this notebook now.
 
 http://nbviewer.jupyter.org/github/TianhongBu/DataScience/blob/master/SentimentAnalysisOf2016ElectionUsingTwitter.html
 
-4. Large Files
-
-We don't have large files.
-
-5. Potential Sources
+4. Potential Sources
 
 We used the GetOldTweets from https://github.com/TianhongBu/GetOldTweets-python as mentioned above. The code is forked here too.
 
